@@ -1,0 +1,66 @@
+{
+	"results": [
+		{
+			"gender": "female",
+			"name": {
+				"title": "Mrs",
+				"first": "Terri",
+				"last": "Alvarez"
+			},
+			"location": {
+				"street": {
+					"number": 6588,
+					"name": "Lone Wolf Trail"
+				},
+				"city": "Kalgoorlie",
+				"state": "Queensland",
+				"country": "Australia",
+				"postcode": 8206,
+				"coordinates": {
+					"latitude": "-89.3489",
+					"longitude": "92.1257"
+				},
+				"timezone": {
+					"offset": "+2:00",
+					"description": "Kaliningrad, South Africa"
+				}
+			},
+			"email": "terri.alvarez@example.com",
+			"login": {
+				"uuid": "e098a776-1404-48f9-b549-ca7065d11b83",
+				"username": "organicrabbit705",
+				"password": "credit",
+				"salt": "rbqI7LRu",
+				"md5": "e7b9653d874b7762816a4601157d5144",
+				"sha1": "8ae81449fe2bc04b3927a2e90a12752aea77298a",
+				"sha256": "4d71c84598d0d66a2eefb3910eaa912e20f1219c78f75a9039ac8914dacd3af7"
+			},
+			"dob": {
+				"date": "1969-08-17T05:16:58.571Z",
+				"age": 51
+			},
+			"registered": {
+				"date": "2002-10-04T15:16:43.769Z",
+				"age": 18
+			},
+			"phone": "03-8006-5281",
+			"cell": "0493-682-364",
+			"id": {
+				"name": "TFN",
+				"value": "733589367"
+			},
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/40.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+			},
+			"nat": "AU"
+		}
+	],
+	"info": {
+		"seed": "a4ea66bda11b4e5c",
+		"results": 1,
+		"page": 1,
+		"version": "1.3"
+	}
+}
