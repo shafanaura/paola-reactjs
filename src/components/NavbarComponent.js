@@ -51,7 +51,7 @@ export default class NavbarComponent extends Component {
 									{person.name.first}
 								</Typography>
 								<NavText text="ABOUT" />
-								<NavText text="RESUMEE" />
+								<NavText text="RESUME" />
 								<NavText text="EDUCATION" />
 								<NavText text="PORTFOLIO" />
 							</Toolbar>
